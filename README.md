@@ -40,8 +40,10 @@
 
 ### 📊 Estadísticas de GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=yhoangaleano&show_icons=true&theme=tokyonight&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yhoangaleano&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=yhoangaleano&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=86400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yhoangaleano&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400)
+
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yhoangaleano&theme=tokyonight)
 
 ---
